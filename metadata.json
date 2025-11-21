@@ -1,0 +1,5 @@
+{
+  "name": "React ERP System",
+  "description": "A comprehensive Enterprise Resource Planning system featuring Inventory Management, Purchasing Workflows (PR/PO), and Sales tracking with simulated backend logic.",
+  "requestFramePermissions": []
+}
